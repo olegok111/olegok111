@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olegok111
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java and Idris
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
